@@ -1,4 +1,5 @@
 ﻿/*
+Задание 3
 Создайте класс DocumentWorker.
 В теле класса создайте три метода OpenDocument(), EditDocument(),
 SaveDocument().

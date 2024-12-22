@@ -4,18 +4,18 @@ Inheritance, access modifiers, OOP in C#
 ## Project structure
 ```
 .
-├── DocumentWorkerApp
-│   ├── DocumentWorkerApp.csproj
-│   └── Program.cs
-├── .gitignore
 ├── LICENSE
 ├── README.md
-├── SchoolProject
-│   ├── Program.cs
-│   └── SchoolProject.csproj
-└── VehicleProject
-    ├── Program.cs
-    └── VehicleProject.csproj
+└── src
+    ├── DocumentWorkerApp
+    │   ├── DocumentWorkerApp.csproj
+    │   └── Program.cs
+    ├── SchoolProject
+    │   ├── Program.cs
+    │   └── SchoolProject.csproj
+    └── VehicleProject
+        ├── Program.cs
+        └── VehicleProject.csproj
 ```
 
 ## License

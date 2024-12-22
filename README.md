@@ -1,4 +1,4 @@
-# al-cs-lab-2
+# **al-cs-lab-2**
 Inheritance, access modifiers, OOP in C#
 
 ## Project structure
